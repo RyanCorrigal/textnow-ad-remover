@@ -20,9 +20,9 @@ Right now it removes actually running ads actually running on TextNow right now.
 
 1. Go to the the web-store of your Chromium based browser of choice and download and install the [Tampermonkey](https://tampermonkey.net) extension appropriate to your browser version.
 
-- Google Chrome Web Store: (<https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo>)
+- Google Chrome Web Store: <https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo>
 
-- Microsoft Edge Add-ons: (<https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd>).
+- Microsoft Edge Add-ons: <https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd>
 
 1. Once Tampermonkey is installed and running, locate the button for its extension on your web browser's toolbar, press that, and then select **Create a new script** from the .menu that pops up.
 2. From this package, open the file **script/textnow-ad-remover.js** in your text editor of choice and copy the text from my script and paste it into the window now provided by Tampermonkey.
