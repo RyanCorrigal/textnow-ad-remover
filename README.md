@@ -9,12 +9,12 @@ Right now it removes actually running ads actually running on TextNow right now.
 - Microsoft Windows 7 and later
 
 **Note**: TextNow Ad Remover should run on any platform officially supported by
-[Chromium][https://github.com/chromium/chromium]. Read more in their [documentation][https://chromium.googlesource.com/chromium/src/+/HEAD/docs/README.md].
+[Chromium](https://github.com/chromium/chromium). Read more in their [documentation](https://chromium.googlesource.com/chromium/src/+/HEAD/docs/README.md).
 
 ## Requirements
 
 1. You need to be running the excellent extension for chromium based web browsers, [Tampermonkey](https://www.tampermonkey.net/).
-2. You neew to be using [TextNow](https://www.textnow.com/).
+2. You need to be using [TextNow](https://www.textnow.com/).
 
 ## Installation
 
